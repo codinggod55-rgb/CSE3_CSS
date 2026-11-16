@@ -17,3 +17,21 @@ p{
 #cd{
     color: rgb(222, 101, 210);
 }
+.hello{
+    margin: 10px 60px;
+    padding: 10px 60px;
+    border: 2px solid;
+}
+.p-heading{
+    text-align: center;
+    color: violet;
+    font-size: 20px;
+    margin-top: 5px;
+}
+.p-inside-div{
+    color: red;
+    font-size: 15px;
+}
+.power-div{
+    border: 4px solid;
+}
